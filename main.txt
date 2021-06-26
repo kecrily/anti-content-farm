@@ -1,6 +1,7 @@
 *://*.huaweicloud.com/articles/*
 # GitHub
-*://*.gitmemory.*/*
+*://*.gitmemory.com/*
+*://*.gitmemory.cn/*
 *://*.githubmemory.com/*
 # Wikipedia
 *://*.koudaiwiki.com/*
