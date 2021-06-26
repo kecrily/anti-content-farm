@@ -1,11 +1,11 @@
 # Anti Content Farm
 
-## Why anti?
+## Why need anti?
 
 Content Farm:
 
 - Create nothing
-- Plagiarize form others
+- Plagiarise form others
 - Pollute search engine
 - Waste our time
 
@@ -13,13 +13,13 @@ Content Farm:
 
 1. Add uBlacklist ([Chrome](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe), [Firefox](https://addons.mozilla.org/firefox/addon/ublacklist))
 2. Go to options page
-3. Scroll to the bottom and enter the following to add a subscription
+3. Scroll to the bottom and enter the following content to add a subscription
 
     Generally use this
 
    - `https://raw.githubusercontent.com/kecrily/anti-content-farm/master/main.txt`
 
-    For users who have difficulty accessing GitHub, such as those in China mainland
+    For users who have difficulty accessing GitHub, such as those in China mainland, try
 
    - `https://cdn.jsdelivr.net/gh/kecrily/anti-content-farm@master/main.txt`
 
