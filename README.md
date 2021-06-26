@@ -21,7 +21,7 @@ Content Farm:
 
     For users who have difficulty accessing GitHub, such as those in China mainland
 
-   - `https://cdn.jsdelivr.net/gh/kecrily/anti-content-farm/master/main.txt`
+   - `https://cdn.jsdelivr.net/gh/kecrily/anti-content-farm@master/main.txt`
 
 ## Thanks To
 
