@@ -3,5 +3,14 @@
 *://*.gitmemory.com/*
 *://*.gitmemory.cn/*
 *://*.githubmemory.com/*
+*://*.issuehunt.io/*
+*://*.opensourcelibs.com/*
+*://*.woqinzi.com/*
+*://*.giters.com/*
+*://*.mathfaq.buzz/*
+*://*.fall.asia/*
+*://*.hao0452.net/*
+*://*.releaseeye.info/*
+*://xscode.shakuro.info/*
 # Wikipedia
 *://*.koudaiwiki.com/*
