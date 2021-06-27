@@ -1,4 +1,7 @@
-*://*.huaweicloud.com/articles/*
+# Developer community (China Cloud)
+*://www.huaweicloud.com/articles/*
+*://developer.aliyun.com/article/*
+*://cloud.tencent.com/developer/article/*
 # GitHub
 *://*.gitmemory.com/*
 *://*.gitmemory.cn/*
