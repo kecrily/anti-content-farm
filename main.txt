@@ -3,17 +3,19 @@
 *://developer.aliyun.com/article/*
 *://cloud.tencent.com/developer/article/*
 # GitHub
+## GitHub Info
 *://*.gitmemory.com/*
 *://*.gitmemory.cn/*
 *://*.githubmemory.com/*
-*://*.issuehunt.io/*
 *://*.opensourcelibs.com/*
-*://*.woqinzi.com/*
 *://*.giters.com/*
-*://*.mathfaq.buzz/*
 *://*.fall.asia/*
 *://*.hao0452.net/*
 *://*.releaseeye.info/*
 *://xscode.shakuro.info/*
+## GitHub Mirror
+*://phoenix.yizimg.com/*
 # Wikipedia
 *://*.koudaiwiki.com/*
+# StackOverflow
+*://*.stackoom.com/*
