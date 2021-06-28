@@ -19,3 +19,14 @@
 *://*.koudaiwiki.com/*
 # StackOverflow
 *://*.stackoom.com/*
+*://*.coder.work/*
+# Shit Information
+*://*.ezgckg.com/*
+*://*.tspweb.com/*
+*://*.brbtyt.com/*
+*://*.wpwsb.com/*
+*://*.www.ydxpt.com/*
+*://*.duboot.com/*
+*://*.urpimp.com/*
+*://*.hzsvn.com/*
+*://*.feilikesi.com/*
