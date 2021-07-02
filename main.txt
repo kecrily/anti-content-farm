@@ -2,6 +2,7 @@
 *://www.huaweicloud.com/articles/*
 *://developer.aliyun.com/article/*
 *://cloud.tencent.com/developer/article/*
+*://cloud.tencent.com/developer/ask/*
 # GitHub
 ## GitHub Info
 *://*.gitmemory.com/*
