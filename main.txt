@@ -21,6 +21,8 @@
 # StackOverflow
 *://*.stackoom.com/*
 *://*.coder.work/*
+# SEO Query Tool (They will create some permanent query result links based on the domain name)
+*://*.aizhan.com/*
 # Shit Information
 *://*.ezgckg.com/*
 *://*.tspweb.com/*
