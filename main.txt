@@ -1,4 +1,4 @@
-# Developer community (China Cloud)
+# Developer Community (China Cloud)
 *://www.huaweicloud.com/articles/*
 *://developer.aliyun.com/article/*
 *://cloud.tencent.com/developer/article/*
@@ -23,6 +23,22 @@
 *://*.coder.work/*
 # SEO Query Tool (They will create some permanent query result links based on the domain name)
 *://*.aizhan.com/*
+# Bad Site Collection
+*://*.rcggzy.cn/*
+*://*.277a.com/*
+*://*.kulangdh.com/*
+*://*.advos.cn/*
+*://*.susoba.com/*
+*://*.192link.com/*
+*://*.1d9z.com/*
+*://*.bxmao.net/*
+*://*.abcdao.com/*
+*://*.isys.top/*
+*://*.duote.com/*
+*://*.948v.com/*
+*://*.298.life/*
+*://*.gongxiang.club/*
+*://*.xinzhandao.com/*
 # Shit Information
 *://*.ezgckg.com/*
 *://*.tspweb.com/*
