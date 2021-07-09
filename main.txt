@@ -14,8 +14,13 @@
 *://*.hao0452.net/*
 *://*.releaseeye.info/*
 *://xscode.shakuro.info/*
+*://google-yandex.info/*
+*://bestofphp.com/*
 ## GitHub Mirror
-*://phoenix.yizimg.com/*
+*://*.yizimg.com/*
+*://47.101.41.200/*
+*://*.diveh.xyz/*
+*://*.gateway.web.tr/*
 # Wikipedia
 *://*.koudaiwiki.com/*
 # StackOverflow
@@ -49,3 +54,6 @@
 *://*.urpimp.com/*
 *://*.hzsvn.com/*
 *://*.feilikesi.com/*
+*://*.demxs.com/*
+*://*.jooko.info/*
+*://*.cashsave.org/
