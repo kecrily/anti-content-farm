@@ -23,6 +23,9 @@
 *://*.gateway.web.tr/*
 # Wikipedia
 *://*.koudaiwiki.com/*
+*://*.wikizero.com/*
+# Wikisource
+*://*.zhonghuashu.com/*
 # StackOverflow
 *://*.stackoom.com/*
 *://*.coder.work/*
