@@ -16,6 +16,7 @@
 *://xscode.shakuro.info/*
 *://google-yandex.info/*
 *://bestofphp.com/*
+*://awesomeopensource.com/*
 ## GitHub Mirror
 *://*.yizimg.com/*
 *://47.101.41.200/*
@@ -24,6 +25,7 @@
 # Wikipedia
 *://*.koudaiwiki.com/*
 *://*.wikizero.com/*
+*://*.wikiwand.com/*
 # Wikisource
 *://*.zhonghuashu.com/*
 # StackOverflow
@@ -60,3 +62,10 @@
 *://*.demxs.com/*
 *://*.jooko.info/*
 *://*.cashsave.org/
+*://*.xkyn.com/*
+*://*.gaogevip.com/*
+*://*.07yue.com/*
+*://*.cczclc.com/*
+*://*.ok-3e.com/*
+*://*.usdiversityvisa.com/*
+*://*.cciac.org/*
