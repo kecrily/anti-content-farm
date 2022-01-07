@@ -17,6 +17,11 @@
 *://google-yandex.info/*
 *://bestofphp.com/*
 *://awesomeopensource.com/*
+*://*.buaq.net/*
+*://*.githubhelp.com/*
+*://*.gitplanet.com/*
+*://*.issueexplorer.com/*
+*://*.gitstar-ranking.com/*
 ## GitHub Mirror
 *://*.yizimg.com/*
 *://47.101.41.200/*
